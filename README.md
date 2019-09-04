@@ -2,7 +2,7 @@
 
 This is a spring boot application that processes 50 messages about the sale of products
 
-To run the project clone this repo and run the following in a command line:
+To run the project clone this repo and run the following in a command line within the project directory:
 
 ``
     mvn spring-boot:run 
